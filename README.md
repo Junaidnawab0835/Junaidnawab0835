@@ -1,69 +1,18 @@
+# 💫 About Me:
 Mobile application developer with 4+ years of experience specializing in Flutter and Native Android development. Strong track record of delivering user-focused apps from concept to launch, with expertise in payment systems, AR integration, and ML implementations. Adept at optimizing app performance and ensuring seamless user experiences across platforms. Proven ability to collaborate with cross-functional teams to translate client needs into innovative and scalable solutions.
 
----
-🧰 Toolbox
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-junaid-nawab) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@junaidnawab835) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10856673) 
 
-<table>
-  <tr>
-    <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/800px-Android_Studio_Logo_2024.svg.png" width="50" height="50"/>
-    </td>
-     <td>
-        <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain-wordmark.svg" width="50" height="50"/>
-    </td>
-    <td>
-        <img src="https://cdn.prod.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg" width="50" height="50"/>
-    </td>
-     <td>
-        <img src="https://developers.google.com/static/ml-kit/images/homepage/hero.png" width="50" height="50"/>
-    </td>
-     <td>
-        <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" width="50" height="50"/>
-    </td>
-      <td>
-        <img src="https://i.ibb.co/mbT8CZX/tensorflow-lite-logo-social-1.png" width="100" height="50"/>
-    </td>
-     <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" height="50"/>
-    </td>
-  </tr>
-</table>
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Junaidnawab0835&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Junaidnawab0835&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaidnawab0835&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
-Let's Connect.
-</br>
-<p align="center">
- 
-
-<a href="https://www.linkedin.com/in/muhammad-junaid-nawab/">
-<img src="https://bluebird-europe.com/wp-content/uploads/2021/08/LinkedIn-logo-1.png" alt="LinkedIn" height="80" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;  
-<a href="mailto:junaidnawab835@gmail.com">
-<img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="Gmail" height="80" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
- 
-<a href="https://medium.com/@junaidnawab835">
-<img  src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2018/png/iconmonstr-medium-5.png&r=99&g=110&b=114" alt="Medium"  height="80" />
-</a>
- 
-</p>
-<!--
-
-Here are some ideas to get you started:
-
-•⁠  ⁠🔭 I’m currently working on ...
-•⁠  ⁠🌱 I’m currently learning ...
-•⁠  ⁠👯 I’m looking to collaborate on ...
-•⁠  ⁠🤔 I’m looking for help with ...
-•⁠  ⁠💬 Ask me about ...
-•⁠  ⁠📫 How to reach me: ...
-•⁠  ⁠😄 Pronouns: ...
-•⁠  ⁠⚡ Fun fact: ...
-### Hi there 👋
-
--->
-""
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
